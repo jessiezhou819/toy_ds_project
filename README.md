@@ -1,4 +1,4 @@
-# toy_ds_project_1
+# toy_ds_project
 
 Date: 8.10.2022
 
